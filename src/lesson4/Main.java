@@ -1,6 +1,8 @@
 package lesson4;
 
 public class Main {
+
+    //pull
     static Object one = new Object();
     static volatile int currentLetter = 1;
     static final int letter = 4;
